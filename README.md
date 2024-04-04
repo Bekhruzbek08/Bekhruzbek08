@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bekhruzbek08
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning a Software Enginer
+- 🌱 I’m currently learning a Software Engineer
 - 🪪 Telegram username :https://t.me/Behruzbek_Azizov
 
 <!---
